@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Rules</title>
+    <link>http://example.org/</link>
+    <description>Recent content on The Rules</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Dec 2020 22:55:24 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#3 - Propulsion</title>
+      <link>http://example.org/blog/3-propulsion/</link>
+      <pubDate>Wed, 23 Dec 2020 22:55:24 -0500</pubDate>
+      
+      <guid>http://example.org/blog/3-propulsion/</guid>
+      <description>Propulsion creates a driving force leading to movement. It makes the world go around, makes people achieve the goals and desired dreams. Everything in the world moves because of the nature of propulsion. Where it comes from, that hidden force?
+For instance, wind derives its driving force from the pressure difference in two points. Electricity, from the electric potential difference. Sensible heat, from the temperature difference. What about people? What is a driving force for us, human beings?</description>
+    </item>
+    
+    <item>
+      <title>#2 - One Dish Meal</title>
+      <link>http://example.org/blog/2-one-dish-meal/</link>
+      <pubDate>Wed, 23 Dec 2020 22:28:41 -0500</pubDate>
+      
+      <guid>http://example.org/blog/2-one-dish-meal/</guid>
+      <description>I am pretty sure you have done this before: you’d ordered the main course, salad, and an appetizer in a restaurant and then realized you are not going to finish the entire dish. Your stomach simply couldn’t accommodate all that tasty food.
+The same story happened with my friends and me in Munich (Germany, Bavaria). In a restaurant by the central railway station, we decided to make an order. I was hungry.</description>
+    </item>
+    
+    <item>
+      <title>#1 - Did I Forget Something</title>
+      <link>http://example.org/blog/1-did-i-forget-something/</link>
+      <pubDate>Wed, 23 Dec 2020 22:19:23 -0500</pubDate>
+      
+      <guid>http://example.org/blog/1-did-i-forget-something/</guid>
+      <description>If my memory serves me right, I wanted to tell you something. However, I have no recollection of what it was.
+ Well, rule #1 then: “Never rely on your memory. Every major thing has to be written down.”1
+   👋 — Hello, 2020 Anton here, it&amp;rsquo;s hard to imagine a better rule during the pandemic time. An idea is not worth even a dime if it hasn&amp;rsquo;t been written down.</description>
+    </item>
+    
+  </channel>
+</rss>

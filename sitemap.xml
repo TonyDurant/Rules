@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-12-23T22:55:24-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/3-propulsion/</loc>
+    <lastmod>2020-12-23T22:55:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2020-12-23T22:55:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/driving-force/</loc>
+    <lastmod>2020-12-23T22:55:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/goals/</loc>
+    <lastmod>2020-12-23T22:55:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/plans/</loc>
+    <lastmod>2020-12-23T22:55:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/propulsion/</loc>
+    <lastmod>2020-12-23T22:55:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-12-23T22:55:24-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/2-one-dish-meal/</loc>
+    <lastmod>2020-12-23T22:28:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/budget/</loc>
+    <lastmod>2020-12-23T22:28:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/food/</loc>
+    <lastmod>2020-12-23T22:28:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/restaurant/</loc>
+    <lastmod>2020-12-23T22:28:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/1-did-i-forget-something/</loc>
+    <lastmod>2020-12-23T22:19:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/ideas/</loc>
+    <lastmod>2020-12-23T22:19:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+  
+</urlset>
