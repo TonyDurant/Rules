@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ideas on The Rules</title>
-    <link>http://example.org/tags/ideas/</link>
+    <link>https://antonvin.com/tags/ideas/</link>
     <description>Recent content in ideas on The Rules</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Dec 2020 22:19:23 -0500</lastBuildDate><atom:link href="http://example.org/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 22:19:23 -0500</lastBuildDate><atom:link href="https://antonvin.com/tags/ideas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#1 - Did I Forget Something</title>
-      <link>http://example.org/blog/1-did-i-forget-something/</link>
+      <link>https://antonvin.com/blog/1-did-i-forget-something/</link>
       <pubDate>Wed, 23 Dec 2020 22:19:23 -0500</pubDate>
       
-      <guid>http://example.org/blog/1-did-i-forget-something/</guid>
+      <guid>https://antonvin.com/blog/1-did-i-forget-something/</guid>
       <description>If my memory serves me right, I wanted to tell you something. However, I have no recollection of what it was.
  Well, rule #1 then: “Never rely on your memory. Every major thing has to be written down.”1
    👋 — Hello, 2020 Anton here, it&amp;rsquo;s hard to imagine a better rule during the pandemic time. An idea is not worth even a dime if it hasn&amp;rsquo;t been written down.</description>

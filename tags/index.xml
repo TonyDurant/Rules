@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Rules</title>
-    <link>http://example.org/tags/</link>
+    <link>https://antonvin.com/tags/</link>
     <description>Recent content in Tags on The Rules</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Dec 2020 22:55:24 -0500</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 22:55:24 -0500</lastBuildDate><atom:link href="https://antonvin.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>driving force</title>
-      <link>http://example.org/tags/driving-force/</link>
+      <link>https://antonvin.com/tags/driving-force/</link>
       <pubDate>Wed, 23 Dec 2020 22:55:24 -0500</pubDate>
       
-      <guid>http://example.org/tags/driving-force/</guid>
+      <guid>https://antonvin.com/tags/driving-force/</guid>
       <description></description>
     </item>
     
     <item>
       <title>goals</title>
-      <link>http://example.org/tags/goals/</link>
+      <link>https://antonvin.com/tags/goals/</link>
       <pubDate>Wed, 23 Dec 2020 22:55:24 -0500</pubDate>
       
-      <guid>http://example.org/tags/goals/</guid>
+      <guid>https://antonvin.com/tags/goals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plans</title>
-      <link>http://example.org/tags/plans/</link>
+      <link>https://antonvin.com/tags/plans/</link>
       <pubDate>Wed, 23 Dec 2020 22:55:24 -0500</pubDate>
       
-      <guid>http://example.org/tags/plans/</guid>
+      <guid>https://antonvin.com/tags/plans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>propulsion</title>
-      <link>http://example.org/tags/propulsion/</link>
+      <link>https://antonvin.com/tags/propulsion/</link>
       <pubDate>Wed, 23 Dec 2020 22:55:24 -0500</pubDate>
       
-      <guid>http://example.org/tags/propulsion/</guid>
+      <guid>https://antonvin.com/tags/propulsion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>budget</title>
-      <link>http://example.org/tags/budget/</link>
+      <link>https://antonvin.com/tags/budget/</link>
       <pubDate>Wed, 23 Dec 2020 22:28:41 -0500</pubDate>
       
-      <guid>http://example.org/tags/budget/</guid>
+      <guid>https://antonvin.com/tags/budget/</guid>
       <description></description>
     </item>
     
     <item>
       <title>food</title>
-      <link>http://example.org/tags/food/</link>
+      <link>https://antonvin.com/tags/food/</link>
       <pubDate>Wed, 23 Dec 2020 22:28:41 -0500</pubDate>
       
-      <guid>http://example.org/tags/food/</guid>
+      <guid>https://antonvin.com/tags/food/</guid>
       <description></description>
     </item>
     
     <item>
       <title>restaurant</title>
-      <link>http://example.org/tags/restaurant/</link>
+      <link>https://antonvin.com/tags/restaurant/</link>
       <pubDate>Wed, 23 Dec 2020 22:28:41 -0500</pubDate>
       
-      <guid>http://example.org/tags/restaurant/</guid>
+      <guid>https://antonvin.com/tags/restaurant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ideas</title>
-      <link>http://example.org/tags/ideas/</link>
+      <link>https://antonvin.com/tags/ideas/</link>
       <pubDate>Wed, 23 Dec 2020 22:19:23 -0500</pubDate>
       
-      <guid>http://example.org/tags/ideas/</guid>
+      <guid>https://antonvin.com/tags/ideas/</guid>
       <description></description>
     </item>
     

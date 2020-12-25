@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>budget on The Rules</title>
-    <link>http://example.org/tags/budget/</link>
+    <link>https://antonvin.com/tags/budget/</link>
     <description>Recent content in budget on The Rules</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Dec 2020 22:28:41 -0500</lastBuildDate><atom:link href="http://example.org/tags/budget/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 22:28:41 -0500</lastBuildDate><atom:link href="https://antonvin.com/tags/budget/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>#2 - One Dish Meal</title>
-      <link>http://example.org/blog/2-one-dish-meal/</link>
+      <link>https://antonvin.com/blog/2-one-dish-meal/</link>
       <pubDate>Wed, 23 Dec 2020 22:28:41 -0500</pubDate>
       
-      <guid>http://example.org/blog/2-one-dish-meal/</guid>
+      <guid>https://antonvin.com/blog/2-one-dish-meal/</guid>
       <description>I am pretty sure you have done this before: you’d ordered the main course, salad, and an appetizer in a restaurant and then realized you are not going to finish the entire dish. Your stomach simply couldn’t accommodate all that tasty food.
 The same story happened with my friends and me in Munich (Germany, Bavaria). In a restaurant by the central railway station, we decided to make an order. I was hungry.</description>
     </item>
