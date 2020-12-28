@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>solution on The Rules</title>
+    <link>https://antonvin.com/tags/solution/</link>
+    <description>Recent content in solution on The Rules</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Dec 2020 17:54:14 -0500</lastBuildDate><atom:link href="https://antonvin.com/tags/solution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#7 - A simple solution</title>
+      <link>https://antonvin.com/blog/7-a-simple-solution/</link>
+      <pubDate>Sun, 27 Dec 2020 17:54:14 -0500</pubDate>
+      
+      <guid>https://antonvin.com/blog/7-a-simple-solution/</guid>
+      <description>Rule #7: &amp;ldquo;Every problem has a simple solution.&amp;rdquo;
+ If it seems there is no simple solution to a problem, that means the solution is yet to be found. Only a shortsighted mind that is bound to overcomplicate things, is burdened to block itself in a dead-end of a thought process. Trust me, even seemingly unsolvable problems have a solution. Here is an example.
+No human is perfect. I am colorblind.</description>
+    </item>
+    
+  </channel>
+</rss>
