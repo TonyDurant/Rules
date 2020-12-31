@@ -157,8 +157,8 @@
 
   @media (prefers-color-scheme: dark) {
     body {
-      background-color: #333;
-      color: #ddd;
+      background-color: white;
+      color: black;
     }
 
     h1,
@@ -169,11 +169,15 @@
     h6,
     strong,
     b {
-      color: #eee;
+      color: black;
     }
 
-    a {
-      color: #8cc2dd;
+    a:link {
+      color: #0089ff;
+      text-decoration: none;
+      border-bottom: 1px solid rgba(0,137,255,.3);
+      -webkit-transition: color .3s ease,border-color .3s ease;
+      transition: color .3s ease,border-color .3s ease;
     }
 
     code {
@@ -181,21 +185,23 @@
     }
 
     pre code {
-      color: #ddd;
+      color: black;
     }
 
     blockquote {
-      color: #ccc;
+      font-weight: 400;
+      font-size: 1.2em;
+      color: black;
     }
 
     textarea,
     input {
       background-color: #252525;
-      color: #ddd;
+      color: black;
     }
 
     .helptext {
-      color: #aaa;
+      color: black;
     }
   }
 
