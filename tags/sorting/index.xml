@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sorting on The Rules</title>
+    <link>https://antonvin.com/tags/sorting/</link>
+    <description>Recent content in sorting on The Rules</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jan 2021 20:10:17 -0500</lastBuildDate><atom:link href="https://antonvin.com/tags/sorting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#25 - Sorting</title>
+      <link>https://antonvin.com/blog/25-sorting/</link>
+      <pubDate>Mon, 25 Jan 2021 20:10:17 -0500</pubDate>
+      
+      <guid>https://antonvin.com/blog/25-sorting/</guid>
+      <description>When looking for information or doing research, we typically move from general to specific which is the most correct way. In other words, we start with generalization to identify the scope and then move over to details to narrow it down. Similarly, when organizing information, you should follow the very same principle.
+For example, due to the nature of my work, I very often create documents such as letters, drawings, engineering layouts, submittals, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
